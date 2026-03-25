@@ -13,40 +13,40 @@ This collection showcases my practical experience with core JavaScript concepts,
 
 ## 📂 Projects
 
-- [**Variables & Functions**](https://lena-tar.github.io/js-homeworks/hw-01/index.html)
+- [**Variables & Functions**](https://lena-tar.github.io/js-exercises/hw-01/index.html)
   Basic syntax, variables, and functions
 
-- [**Control Flow**](https://lena-tar.github.io/js-homeworks/hw-02/index.html)
+- [**Control Flow**](https://lena-tar.github.io/js-exercises/hw-02/index.html)
   Conditional statements and loops
 
-- [**Arrays & Functions**](https://lena-tar.github.io/js-homeworks/hw-03/index.html)
+- [**Arrays & Functions**](https://lena-tar.github.io/js-exercises/hw-03/index.html)
   Array operations and reusable logic
 
-- [**Objects**](https://lena-tar.github.io/js-homeworks/hw-04/index.html)
+- [**Objects**](https://lena-tar.github.io/js-exercises/hw-04/index.html)
   Object manipulation and methods
 
-- [**Array Methods**](https://lena-tar.github.io/js-homeworks/hw-05/index.html)
+- [**Array Methods**](https://lena-tar.github.io/js-exercises/hw-05/index.html)
   Functional programming methods (map, filter, reduce)
 
-- [**OOP & Classes**](https://lena-tar.github.io/js-homeworks/hw-06/index.html)
+- [**OOP & Classes**](https://lena-tar.github.io/js-exercises/hw-06/index.html)
   Object-oriented programming concepts
 
-- [**DOM Manipulation**](https://lena-tar.github.io/js-homeworks/hw-07/index.html)
+- [**DOM Manipulation**](https://lena-tar.github.io/js-exercises/hw-07/index.html)
   Working with the document structure
 
-- [**Events & Libraries**](https://lena-tar.github.io/js-homeworks/hw-08/index.html)
+- [**Events & Libraries**](https://lena-tar.github.io/js-exercises/hw-08/index.html)
   Event handling and external libraries
 
-- [**Modules & Vite**](https://lena-tar.github.io/js-homeworks/hw-09/index.html)
+- [**Modules & Vite**](https://lena-tar.github.io/js-exercises/hw-09/index.html)
   ES modules and build tools
 
-- [**Async JavaScript**](https://lena-tar.github.io/js-homeworks/hw-10/index.html)
+- [**Async JavaScript**](https://lena-tar.github.io/js-exercises/hw-10/index.html)
   Promises and asynchronous logic
 
-- [**HTTP Requests**](https://lena-tar.github.io/js-homeworks/hw-11/index.html)
+- [**HTTP Requests**](https://lena-tar.github.io/js-exercises/hw-11/index.html)
   Working with APIs using Fetch
 
-- [**Async/Await**](https://lena-tar.github.io/js-homeworks/hw-12/index.html)
+- [**Async/Await**](https://lena-tar.github.io/js-exercises/hw-12/index.html)
   Modern asynchronous patterns
 
 ---
