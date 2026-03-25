@@ -7,7 +7,7 @@ This collection showcases my practical experience with core JavaScript concepts,
 
 ## 🌐 Live Demo
 
-🔗 https://lena-tar.github.io/js-homeworks/
+🔗 https://lena-tar.github.io/js-exercises/
 
 ---
 
